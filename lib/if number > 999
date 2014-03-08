@@ -1,0 +1,3 @@
+if number > 999
+thousands << number/1000
+num -= thousands[0] * 1000
